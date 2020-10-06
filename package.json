@@ -1,0 +1,22 @@
+{
+  "name": "cordovasaveconfigtousb",
+  "version": "1.0.0",
+  "description": "Save RT-160 config to external USB storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallipues/WriteRT160ConfigUsb.git"
+  },
+  "keywords": [
+    "RT-160"
+  ],
+  "author": "Gallipues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallipues/WriteRT160ConfigUsb/issues"
+  },
+  "homepage": "https://github.com/gallipues/WriteRT160ConfigUsb#readme"
+}
